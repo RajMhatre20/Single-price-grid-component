@@ -114,7 +114,6 @@ p {
     align-items: center;
 }
 
-
 .lower_right_container{
     background: hsla(179, 62%, 43%, 0.76);
     color: #fff;
@@ -147,6 +146,9 @@ footer {
 
     .lower_left_container{
         width: 100%;
+    }
+    footer{
+        position: relative;
     }
 }
 
